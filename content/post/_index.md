@@ -1,14 +1,10 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: ok this is a post
 view: 2
-
-# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
+date: 2020-05-11T04:00:00+00:00
+subtitle: whats up
+
 ---
